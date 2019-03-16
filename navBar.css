@@ -1,0 +1,11 @@
+.navBar{
+  position: fixed;
+    top: 3%;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(128,128,128);
+    width: 97.5%;
+    padding: 10px 10px;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
